@@ -110,10 +110,10 @@ When the user wants to access a route that requires authorization, the client wi
 
 ### Starter Code (15 min / 0:40)
 
-Start out by cloning the repo for 'Walk It Out' api:
+Start out by cloning the [repo for 'Walk It Out' api](https://github.com/megmaciver13/walk-it-out-back):
 
 ```
-$ git clone git@git.generalassemb.ly:ga-wdi-lessons/walk-it-out-back-end.git
+$ git clone git@github.com:megmaciver13/walk-it-out-back.git
 $ npm install
 ```
 
@@ -399,10 +399,10 @@ Once again, you should see a JSON object with a token value sent in a response.
 
 #### Starter Code (10 min / 2:15)
 
-Clone down [this repository](https://git.generalassemb.ly/ga-wdi-lessons/react-walk-it-out-front-end) for the front-end of `Walk It Out`.
+Clone down [this repository](https://github.com/megmaciver13/walk-it-out-front) for the front-end of `Walk It Out`.
 
 ```
-$ git clone git@git.generalassemb.ly:ga-wdi-lessons/react-walk-it-out-front-end.git
+$ git clone git@github.com:megmaciver13/walk-it-out-front.git
 $ npm install
 ```
 
